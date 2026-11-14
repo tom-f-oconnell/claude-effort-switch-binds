@@ -1,0 +1,6 @@
+{
+  "name": "claude-effort-switch-binds",
+  "description": "effort-switch-binds: keys to step Claude Code's effort level and model, and to send the last prompt again.",
+  "owner": { "name": "tom-f-oconnell" },
+  "plugins": [{ "name": "effort-switch-binds", "source": "./" }]
+}

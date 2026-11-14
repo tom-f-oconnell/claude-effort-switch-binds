@@ -1,0 +1,10 @@
+{
+  "name": "effort-switch-binds",
+  "version": "0.1.0",
+  "description": "Slash commands for keybindings: step the effort level down or up, step to the previous or next model, and send the last prompt again.",
+  "author": {
+    "name": "tom-f-oconnell"
+  },
+  "homepage": "https://github.com/tom-f-oconnell/claude-effort-switch-binds",
+  "license": "GPL-3.0-only"
+}
